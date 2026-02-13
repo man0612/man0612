@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Man</h1>
-<h3 align="center">🚀 Aspiring Developer | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Manshi Singh</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=man0612&label=Profile%20Views&color=0e75b6&style=flat" alt="man0612" />
@@ -8,41 +8,68 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student passionate about technology and development  
-- 🌱 Currently learning: **Programming & Real-World Projects**  
-- 💡 Interested in: Web Development / Software Development / Open Source  
-- 🚀 Goal: To become a skilled developer and build impactful projects  
-- ⚡ Fun fact: I love learning new tech and improving daily  
+- 🎓 B.Tech in Information Technology @ IIEST Shibpur  
+- 💻 Full Stack Developer with strong interest in System Design & Scalable Applications  
+- 🌱 Currently learning: Full Stack Development, System Design & Advanced DSA  
+- 🧠 Solved 1200+ problems across coding platforms  
+- 🚀 Passionate about building real-world applications and impactful tech solutions  
+- ⚡ Strong foundation in Data Structures, Algorithms, DBMS, OS & Computer Networks  
 
 ---
 
 ## 🛠️ Tech Stack
+
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### 🌐 Full Stack Development (MERN)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
-🔹 [Project 1](https://github.com/man0612/Chillin-Bites) – ### 🍔 Chillin-Bites – Full Stack Food Delivery Application
-A full-stack MERN food delivery web app with JWT authentication, Stripe payment integration, admin dashboard, real-time cart management, and RESTful APIs, built with React (Vite), Node.js, Express, and MongoDB.
-🔗 https://github.com/man0612/Chillin-Bites
- 
-🔹 [Project 2](https://github.com/man0612) – Add your second best project  
-🔹 [Project 3](https://github.com/man0612) – Add a strong project here  
 
-> Tip: Replace these with your real repositories for a strong profile.
+### 🍔 Chillin-Bites – Full Stack Food Delivery Application
+A scalable MERN stack food delivery platform with JWT authentication, Stripe payment integration, admin dashboard, and real-time cart & order tracking. Built using React (Vite), Node.js, Express.js, and MongoDB with RESTful APIs and secure role-based authentication.  
+🔗 https://github.com/man0612/Chillin-Bites
+
+### 🤖 Agentic GitHub Orchestrator & MCP Server
+An MCP-compliant developer tool using GitHub API and LLMs to automate semantic PR summarization, code analysis, and secure Git operations, enabling AI-driven development workflows.
+
+### ⚡ Multi-Core Graph Algorithm Efficiency
+Multithreaded implementations of Dijkstra, Kruskal, and Prim’s algorithms in C, achieving 20–35% performance improvement through parallel computation and optimized algorithm design.
+
+---
+
+## 🧠 Core CS Skills
+- Data Structures & Algorithms  
+- Operating Systems  
+- DBMS & SQL  
+- Computer Networks  
+- Object-Oriented Programming  
+- System Design  
 
 ---
 
@@ -54,10 +81,12 @@ A full-stack MERN food delivery web app with JWT authentication, Stripe payment 
 
 ---
 
-## 🧠 Currently Learning
-- Data Structures & Algorithms  
-- Git & GitHub  
-- Full Stack Development  
+## 🏆 Coding Profiles & Achievements
+- 💡 1200+ problems solved on LeetCode and 1600+ overall across platforms  
+- ⭐ LeetCode Rating: 1700+ (Top global percentile)  
+- 🥇 5★ in C++ & Problem Solving on HackerRank  
+- 🏅 Multiple LeetCode streak badges (365+ & 500+ days)  
+- 📈 Active Competitive Programmer  
 
 ---
 
@@ -66,12 +95,12 @@ A full-stack MERN food delivery web app with JWT authentication, Stripe payment 
 <a href="https://github.com/man0612">
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<!-- Add LinkedIn & Email below -->
-<!-- Example:
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="mailto:manshisingh6121@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/manshi-singh-iiest">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
--->
 </p>
 
 ---
