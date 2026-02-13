@@ -35,7 +35,10 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 [Project 1](https://github.com/man0612) – Add your best project description  
+🔹 [Project 1](https://github.com/man0612/Chillin-Bites) – ### 🍔 Chillin-Bites – Full Stack Food Delivery Application
+A full-stack MERN food delivery web app with JWT authentication, Stripe payment integration, admin dashboard, real-time cart management, and RESTful APIs, built with React (Vite), Node.js, Express, and MongoDB.
+🔗 https://github.com/man0612/Chillin-Bites
+ 
 🔹 [Project 2](https://github.com/man0612) – Add your second best project  
 🔹 [Project 3](https://github.com/man0612) – Add a strong project here  
 
