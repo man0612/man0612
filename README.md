@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=man0612&label=Profile%20Views&color=0e75b6&style=flat" alt="man0612" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+(MERN);1200%2B+DSA+Problems+Solved;SDE+Internship+Seeker;System+Design+Enthusiast&center=true&width=500&height=45">
 </p>
+
 
 ---
 
