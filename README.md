@@ -57,11 +57,18 @@ A scalable MERN stack food delivery platform with JWT authentication, Stripe pay
 🔗 https://github.com/man0612/Chillin-Bites
 
 ### 🤖 Agentic GitHub Orchestrator & MCP Server
-An MCP-compliant developer tool using GitHub API and LLMs to automate semantic PR summarization, code analysis, and secure Git operations, enabling AI-driven development workflows.
+Developed an MCP-compliant AI developer tool for semantic PR summarization
+
+Automated code analysis and Git operations using LLM workflows
+
+Enabled AI-driven development automation and productivity optimization
 
 ### ⚡ Multi-Core Graph Algorithm Efficiency
-Multithreaded implementations of Dijkstra, Kruskal, and Prim’s algorithms in C, achieving 20–35% performance improvement through parallel computation and optimized algorithm design.
+Implemented parallel Dijkstra, Kruskal, and Prim’s algorithms
 
+Achieved 20–35% performance improvement using multi-core optimization
+
+Focused on algorithm efficiency and scalable computation
 ---
 
 ## 🧠 Core CS Skills
